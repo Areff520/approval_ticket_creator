@@ -11,7 +11,7 @@ import os
 import pandas as pd
 import Blurbs
 
-"""Takes vendor ID from the excel, take the neccesarry details from smores-eu.corp
+"""Takes vendor ID from the excel, takes the neccesarry details from smores-eu.corp
     then create approval request ticket via approvals.amazon.com"""
 
 
